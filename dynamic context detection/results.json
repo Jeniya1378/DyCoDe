@@ -1,0 +1,11 @@
+{
+    "multipurpose sensor": [
+        "I need to know if the baby wakes up during my meeting.",
+        "I want to check if the baby is sleeping soundly without any disturbances",
+        "I need to know if the baby rolls over or moves around in the crib"
+    ],
+    "robot vaccum": [
+        "I need the floors to be vacuumed while I'm out running errands",
+        "Ensure the robot vacuum cleans under the furniture where dust collects"
+    ]
+}

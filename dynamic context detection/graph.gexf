@@ -1,0 +1,1124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-06-24">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="dash button" label="dash button">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." label="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." label="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." label="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." label="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." label="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." label="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A central hub or interface used to manage and control multiple smart home devices and systems." label="A central hub or interface used to manage and control multiple smart home devices and systems.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." label="A device installed in walls or floors that provides electricity to appliances and devices when plugged in.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." label="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="echo dot " label="echo dot ">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A compact smart speaker powered by Alexa, capable of voice control for smart home devices, music playback, and more." label="A compact smart speaker powered by Alexa, capable of voice control for smart home devices, music playback, and more.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands." label="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="amazon fire tv stick" label="amazon fire tv stick">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A streaming media player that plugs into an HDMI port on your TV, providing access to thousands of apps, games, and streaming services." label="A streaming media player that plugs into an HDMI port on your TV, providing access to thousands of apps, games, and streaming services.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." label="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="air quality sensor" label="air quality sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." label="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." label="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." label="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." label="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." label="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." label="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." label="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." label="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." label="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device used to capture video footage for surveillance, monitoring, or recording purposes." label="A device used to capture video footage for surveillance, monitoring, or recording purposes.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." label="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." label="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." label="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." label="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="iot sevices controller application" label="iot sevices controller application">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." label="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="smart switch" label="smart switch">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." label="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." label="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="camera" label="camera">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." label="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." label="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." label="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." label="A device that detects movement and triggers actions or alerts, often used for security or automation purposes.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." label="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." label="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." label="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="light" label="light">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." label="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." label="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." label="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." label="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." label="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="air purifier" label="air purifier">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." label="A device used to generate heat, commonly used for warming specific rooms or spaces within a home.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." label="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." label="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="heater" label="heater">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." label="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." label="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." label="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." label="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." label="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="slow cooker" label="slow cooker">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." label="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more." label="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="humidifier " label="humidifier ">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." label="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set." label="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="cybersecurity for iot devices" label="cybersecurity for iot devices">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="Security measures and protocols implemented to protect Internet of Things devices from cyber threats and unauthorized access." label="Security measures and protocols implemented to protect Internet of Things devices from cyber threats and unauthorized access.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="home security system" label="home security system">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="garage door opener" label="garage door opener">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience." label="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security." label="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="countertop grill" label="countertop grill">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="iot sevices controller application for apple" label="iot sevices controller application for apple">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="kitchen and laundry appliances controller" label="kitchen and laundry appliances controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." label="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs." label="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="oven" label="oven">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." label="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="range" label="range">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="refrigerator" label="refrigerator">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="dishwasher" label="dishwasher">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="An autonomous vacuum cleaner that navigates and cleans floors automatically, saving time and effort for homeowners." label="An autonomous vacuum cleaner that navigates and cleans floors automatically, saving time and effort for homeowners.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="washer dryer" label="washer dryer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water heater" label="water heater">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." label="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." label="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="air conditioner" label="air conditioner">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart home devices controller" label="smart home devices controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="thermostat" label="thermostat">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="gps asset tracking" label="gps asset tracking">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="Technology used to track the location of assets such as vehicles, equipment, or packages in real-time using GPS technology." label="Technology used to track the location of assets such as vehicles, equipment, or packages in real-time using GPS technology.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="lock" label="lock">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="video surveillance" label="video surveillance">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="kitchen living and safety devices controller" label="kitchen living and safety devices controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="washer" label="washer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="dryer" label="dryer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="robot vaccum" label="robot vaccum">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A robot vacuum equipped with cameras for live monitoring of cleaning progress and ensuring safety during operation." label="A robot vacuum equipped with cameras for live monitoring of cleaning progress and ensuring safety during operation.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="robot vaccum with safety monitor by video feed" label="robot vaccum with safety monitor by video feed">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="baby monitor" label="baby monitor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A mattress equipped with sensors and technology to track sleep patterns, monitor vital signs, and provide features like temperature control for improved sleep quality." label="A mattress equipped with sensors and technology to track sleep patterns, monitor vital signs, and provide features like temperature control for improved sleep quality.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="coffee maker" label="coffee maker">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smoke and carbon monoxide detector " label="smoke and carbon monoxide detector ">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." label="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="energy usage tracker" label="energy usage tracker">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="lighting products controller" label="lighting products controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="dimmer" label="dimmer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="light strip" label="light strip">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="switch" label="switch">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="controller" label="controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home security and home automation system" label="home security and home automation system">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="motion sensor" label="motion sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="video camera" label="video camera">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="ring doorbell" label="ring doorbell">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smoke detector" label="smoke detector">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smoke alarm" label="smoke alarm">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water leak  detector" label="water leak  detector">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water freeze detector" label="water freeze detector">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home monitoring kit" label="home monitoring kit">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="outlet" label="outlet">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="hub" label="hub">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="multipurpose sensor" label="multipurpose sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="arrival sensor" label="arrival sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water leak sensor" label="water leak sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home locks" label="home locks">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="deadbolt" label="deadbolt">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A handle used to open and close doors, often paired with a deadbolt or other locking mechanism for security." label="A handle used to open and close doors, often paired with a deadbolt or other locking mechanism for security.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+      <node id="doorknob" label="doorknob">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart mattress" label="smart mattress">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart speaker system" label="smart speaker system">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart home hub" label="smart home hub">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart massage chair" label="smart massage chair">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="A chair equipped with advanced technology and sensors to provide a variety of massage techniques, often including features like customizable massage programs, heat therapy, body scanning for personalized massages." label="A chair equipped with advanced technology and sensors to provide a variety of massage techniques, often including features like customizable massage programs, heat therapy, body scanning for personalized massages.">
+        <attvalues>
+          <attvalue for="0" value="description" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="dash button" target="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." id="0" weight="1.0" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." id="1" weight="0.530051589012146" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." id="2" weight="0.5265452861785889" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." id="3" weight="0.5441265106201172" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." id="4" weight="0.5194768905639648" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." id="5" weight="0.5012012720108032" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="A central hub or interface used to manage and control multiple smart home devices and systems." id="6" weight="0.5187893509864807" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." id="7" weight="0.5003841519355774" />
+      <edge source="A small, Wi-Fi connected device that allows users to reorder commonly used household items with the press of a button." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="8" weight="0.5375707745552063" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="iot sevices controller application" id="9" weight="1.0" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="10" weight="0.5049275755882263" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." id="11" weight="0.7707306742668152" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="12" weight="0.5643847584724426" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="13" weight="0.6715043187141418" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." id="14" weight="0.5587584376335144" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="15" weight="0.594748318195343" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="16" weight="0.5016621351242065" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A central hub or interface used to manage and control multiple smart home devices and systems." id="17" weight="0.6646425127983093" />
+      <edge source="An application that enables users to manage and control various Internet of Things (IoT) devices from a centralized interface." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="18" weight="0.625747561454773" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="A compact smart speaker powered by Alexa, capable of voice control for smart home devices, music playback, and more." id="19" weight="0.5238407254219055" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="smart switch" id="20" weight="1.0" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." id="21" weight="0.5615589022636414" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." id="22" weight="0.5152968168258667" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." id="23" weight="0.5728057026863098" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." id="24" weight="0.5465673804283142" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="25" weight="0.5680270791053772" />
+      <edge source="A switch that can be controlled remotely via a smartphone app or voice assistant, allowing users to turn devices on and off from anywhere." target="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands." id="26" weight="0.5955436825752258" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="27" weight="0.5610061287879944" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." id="28" weight="0.5170332789421082" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="iot sevices controller application for apple" id="29" weight="1.0" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="30" weight="0.5056205987930298" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="31" weight="0.5682883262634277" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." id="32" weight="0.6209943294525146" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="33" weight="0.5702778697013855" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A central hub or interface used to manage and control multiple smart home devices and systems." id="34" weight="0.5471422076225281" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="35" weight="0.5417281985282898" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="36" weight="0.5132664442062378" />
+      <edge source="An application specifically designed for Apple devices that enables users to manage and control IoT devices from their iPhone, iPad, or Mac." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="37" weight="0.5463503003120422" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." id="38" weight="0.5767455697059631" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." id="39" weight="0.5029906034469604" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="40" weight="0.7127524018287659" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="41" weight="0.5200172662734985" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." id="42" weight="0.6137539744377136" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="43" weight="0.5093349814414978" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="44" weight="0.5622492432594299" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="45" weight="0.6203036904335022" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." id="46" weight="0.6411040425300598" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="47" weight="0.5197402238845825" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="thermostat" id="48" weight="1.0" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="49" weight="0.5548706650733948" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="50" weight="0.5847172141075134" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." id="51" weight="0.681140661239624" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." id="52" weight="0.5847719311714172" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." id="53" weight="1.0" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="54" weight="0.5714845061302185" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="55" weight="0.5530261993408203" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="56" weight="0.5357114672660828" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="57" weight="0.5430499315261841" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="58" weight="0.5001222491264343" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="59" weight="0.5076401233673096" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="60" weight="0.5324159860610962" />
+      <edge source="A device used to regulate indoor temperature, typically programmable and controllable remotely via a smartphone app." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="61" weight="0.5327597260475159" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." id="62" weight="0.5006964802742004" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." id="63" weight="0.5831847190856934" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="64" weight="0.5100775361061096" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." id="65" weight="0.5278939604759216" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="66" weight="0.5281199216842651" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="baby monitor" id="67" weight="1.0" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." id="68" weight="0.524990975856781" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="69" weight="0.7043080925941467" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device used to capture video footage for surveillance, monitoring, or recording purposes." id="70" weight="0.5879383683204651" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." id="71" weight="0.5048253536224365" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." id="72" weight="0.5014451146125793" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="73" weight="0.68619304895401" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="74" weight="0.5375328063964844" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A mattress equipped with sensors and technology to track sleep patterns, monitor vital signs, and provide features like temperature control for improved sleep quality." id="75" weight="0.5114763379096985" />
+      <edge source="A device used to remotely monitor sounds and movements of a baby or child, providing reassurance to parents and caregivers." target="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands." id="76" weight="0.5004193186759949" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="77" weight="0.5779113173484802" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="78" weight="0.5429256558418274" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="79" weight="0.9446582198143005" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="80" weight="0.5649611353874207" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="81" weight="0.5400686860084534" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="controller" id="82" weight="1.0" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="83" weight="0.5225955247879028" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="84" weight="0.7005932927131653" />
+      <edge source="A central hub or interface used to manage and control multiple smart home devices and systems." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="85" weight="0.7678205966949463" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="86" weight="0.6117833256721497" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="87" weight="0.5189116597175598" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="88" weight="0.5221713185310364" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="89" weight="0.5593543648719788" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="90" weight="0.548330545425415" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="91" weight="0.5159298777580261" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="92" weight="0.6489510536193848" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="93" weight="0.5376434922218323" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="outlet" id="94" weight="1.0" />
+      <edge source="A device installed in walls or floors that provides electricity to appliances and devices when plugged in." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="95" weight="0.54914790391922" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." id="96" weight="0.5005310773849487" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="97" weight="0.6048474907875061" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="98" weight="0.5084590315818787" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="99" weight="0.7353551983833313" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="100" weight="0.5233578085899353" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="101" weight="0.6068087816238403" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="102" weight="0.5465532541275024" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="103" weight="0.5094297528266907" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="104" weight="0.5122084617614746" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="105" weight="0.578457236289978" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="hub" id="106" weight="1.0" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands." id="107" weight="0.5048136115074158" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." id="108" weight="1.0" />
+      <edge source="A central device or system that connects and controls various smart home devices, serving as a communication bridge between devices and the user." target="smart home hub" id="109" weight="1.0" />
+      <edge source="echo dot " target="A compact smart speaker powered by Alexa, capable of voice control for smart home devices, music playback, and more." id="110" weight="1.0" />
+      <edge source="A compact smart speaker powered by Alexa, capable of voice control for smart home devices, music playback, and more." target="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands." id="111" weight="0.7620081305503845" />
+      <edge source="A system of speakers integrated with voice assistants like Alexa or Google Assistant, allowing users to control smart home devices, play music, and access information via voice commands." target="smart speaker system" id="112" weight="1.0" />
+      <edge source="amazon fire tv stick" target="A streaming media player that plugs into an HDMI port on your TV, providing access to thousands of apps, games, and streaming services." id="113" weight="1.0" />
+      <edge source="A streaming media player that plugs into an HDMI port on your TV, providing access to thousands of apps, games, and streaming services." target="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." id="114" weight="0.5249522924423218" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="camera" id="115" weight="1.0" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="116" weight="0.5309342741966248" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." id="117" weight="0.6720820069313049" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="118" weight="0.5091210007667542" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="119" weight="0.5058237910270691" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="120" weight="0.6797707676887512" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A device used to capture video footage for surveillance, monitoring, or recording purposes." id="121" weight="0.834176242351532" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." id="122" weight="0.5053111910820007" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." id="123" weight="0.5270023345947266" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="124" weight="0.7080042958259583" />
+      <edge source="A device used to capture still images or video footage, often equipped with features like motion detection and live streaming for home security." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="125" weight="0.5141655206680298" />
+      <edge source="air quality sensor" target="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." id="126" weight="1.0" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." id="127" weight="0.7338110208511353" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." id="128" weight="0.5177236795425415" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="129" weight="0.570604681968689" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." id="130" weight="0.5441251993179321" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="131" weight="0.5879306793212891" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." id="132" weight="0.5462769865989685" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." id="133" weight="0.6809949278831482" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="134" weight="0.6102988719940186" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A device used to capture video footage for surveillance, monitoring, or recording purposes." id="135" weight="0.5010606050491333" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." id="136" weight="0.5336360335350037" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." id="137" weight="0.5234741568565369" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="138" weight="0.508682131767273" />
+      <edge source="A device that monitors indoor air quality, measuring levels of pollutants and providing real-time data for better environmental health." target="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." id="139" weight="0.5806259512901306" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="air purifier" id="140" weight="1.0" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="141" weight="0.5439389944076538" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="142" weight="0.6519554257392883" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="143" weight="0.5255860090255737" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." id="144" weight="0.543052077293396" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." id="145" weight="0.5449758768081665" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." id="146" weight="0.5926464796066284" />
+      <edge source="A device that removes contaminants from the air, improving indoor air quality by filtering out particles like dust, pollen, and pet dander." target="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." id="147" weight="0.5416570901870728" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="Security measures and protocols implemented to protect Internet of Things devices from cyber threats and unauthorized access." id="148" weight="0.5511372089385986" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="home security system" id="149" weight="1.0" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." id="150" weight="0.5068771839141846" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="151" weight="0.5646998882293701" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="152" weight="0.5038777589797974" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." id="153" weight="0.5511801242828369" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="154" weight="0.5813297629356384" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="155" weight="0.5374045372009277" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="156" weight="0.6867436766624451" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="157" weight="0.6433349847793579" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." id="158" weight="0.5609086155891418" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="159" weight="0.7185709476470947" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="160" weight="0.6041269302368164" />
+      <edge source="A network of devices and sensors designed to detect intruders, monitor activity, and provide alerts for enhanced home security." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="161" weight="0.5436155200004578" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." id="162" weight="0.50432288646698" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="kitchen and laundry appliances controller" id="163" weight="1.0" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." id="164" weight="0.5648638010025024" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." id="165" weight="0.5244976282119751" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="166" weight="0.5598203539848328" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="167" weight="0.5509223937988281" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="168" weight="0.6386240720748901" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="169" weight="0.5462640523910522" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="170" weight="0.5889822244644165" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." id="171" weight="0.8829195499420166" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="172" weight="0.5875870585441589" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs." id="173" weight="0.5340871810913086" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="174" weight="0.6780900359153748" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="175" weight="0.5565633773803711" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="176" weight="0.5361570119857788" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="177" weight="0.5757690668106079" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="178" weight="0.5019376873970032" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="179" weight="0.515159547328949" />
+      <edge source="A system or application that allows users to monitor and control various kitchen and laundry appliances, such as ovens, refrigerators, washers, and dryers." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="180" weight="0.5058109164237976" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="181" weight="0.6585474610328674" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="182" weight="0.5826134085655212" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="183" weight="0.51236891746521" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="air conditioner" id="184" weight="1.0" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." id="185" weight="0.963987410068512" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="186" weight="0.5106861591339111" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." id="187" weight="0.5166131854057312" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather by circulating cool air throughout a room or building." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="188" weight="0.5170392394065857" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="189" weight="0.5066670179367065" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="190" weight="0.5281803011894226" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." id="191" weight="0.5015235543251038" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." id="192" weight="0.601987898349762" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." id="193" weight="0.566362202167511" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="194" weight="0.581821084022522" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="195" weight="0.5760212540626526" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="196" weight="0.5069191455841064" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." id="197" weight="0.517224133014679" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="198" weight="0.6332077980041504" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="kitchen living and safety devices controller" id="199" weight="1.0" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="200" weight="0.6138612031936646" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." id="201" weight="0.5087676048278809" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="202" weight="0.6399751901626587" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="203" weight="0.5621631145477295" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="204" weight="0.5062968134880066" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="205" weight="0.5436292886734009" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="206" weight="0.6048751473426819" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="207" weight="0.5853846669197083" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="208" weight="0.5309118628501892" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="209" weight="0.5448277592658997" />
+      <edge source="An application or system that allows users to monitor and control various kitchen appliances and safety devices for enhanced convenience and safety." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="210" weight="0.5425356030464172" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="211" weight="0.6746234893798828" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="212" weight="0.6002700924873352" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="213" weight="0.5166342854499817" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="214" weight="0.5504252910614014" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="215" weight="0.5241683721542358" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="air conditioner" id="216" weight="1.0" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." id="217" weight="0.5308865904808044" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="218" weight="0.5071552991867065" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." id="219" weight="0.5688472986221313" />
+      <edge source="A cooling system that regulates indoor temperature and humidity levels, providing comfort during hot weather." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="220" weight="0.5223056077957153" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="221" weight="0.5027021169662476" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="smoke and carbon monoxide detector " id="222" weight="1.0" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="223" weight="0.6024194955825806" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A device used to capture video footage for surveillance, monitoring, or recording purposes." id="224" weight="0.5009368062019348" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." id="225" weight="0.8413622379302979" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="226" weight="0.7057989239692688" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." id="227" weight="0.5589519739151001" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="228" weight="0.5349633097648621" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="229" weight="0.5580724477767944" />
+      <edge source="A device that detects the presence of smoke and carbon monoxide in the air, providing early warnings of potential hazards." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="230" weight="0.5547051429748535" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="231" weight="0.6229531764984131" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="232" weight="0.5305604338645935" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="233" weight="0.5423938035964966" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="energy usage tracker" id="234" weight="1.0" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="235" weight="0.5271667242050171" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." id="236" weight="0.5429044365882874" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="237" weight="0.5193628668785095" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="238" weight="0.5128137469291687" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="239" weight="0.5648842453956604" />
+      <edge source="A system or device that monitors and tracks energy consumption in a home, helping users identify energy-saving opportunities and reduce costs." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="240" weight="0.5723926424980164" />
+      <edge source="A device used to capture video footage for surveillance, monitoring, or recording purposes." target="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." id="241" weight="0.6869073510169983" />
+      <edge source="A device used to capture video footage for surveillance, monitoring, or recording purposes." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="242" weight="0.5220942497253418" />
+      <edge source="A device used to capture video footage for surveillance, monitoring, or recording purposes." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="243" weight="0.6720852255821228" />
+      <edge source="A device used to capture video footage for surveillance, monitoring, or recording purposes." target="video camera" id="244" weight="1.0" />
+      <edge source="A device used to capture video footage for surveillance, monitoring, or recording purposes." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="245" weight="0.6894606947898865" />
+      <edge source="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="246" weight="0.5502579212188721" />
+      <edge source="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="247" weight="0.635997474193573" />
+      <edge source="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." target="smoke detector" id="248" weight="1.0" />
+      <edge source="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="249" weight="0.7974923849105835" />
+      <edge source="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="250" weight="0.5829363465309143" />
+      <edge source="A device that senses smoke, typically through the presence of combustion particles, and emits an alarm to alert occupants of a potential fire." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="251" weight="0.5633774995803833" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="252" weight="0.5146978497505188" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="253" weight="0.5677816867828369" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="254" weight="0.5163260102272034" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="255" weight="0.5727863311767578" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="256" weight="0.5728428959846497" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="water leak  detector" id="257" weight="1.0" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="258" weight="0.7898030281066895" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." id="259" weight="0.5742181539535522" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="260" weight="0.540749728679657" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." id="261" weight="0.6177991032600403" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="262" weight="0.7265347838401794" />
+      <edge source="A sensor designed to detect the presence of water, typically used to alert homeowners to potential leaks or flooding." target="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." id="263" weight="0.9364262819290161" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." id="264" weight="0.7177364826202393" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." id="265" weight="0.5283298492431641" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="266" weight="0.656792938709259" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="267" weight="0.5061010122299194" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="268" weight="0.5108626484870911" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="home monitoring kit" id="269" weight="1.0" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="270" weight="0.5468114018440247" />
+      <edge source="A package of sensors, detectors, and a central hub designed to provide comprehensive monitoring and security for a home." target="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." id="271" weight="0.5339633822441101" />
+      <edge source="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="272" weight="0.6040802001953125" />
+      <edge source="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." target="multipurpose sensor" id="273" weight="1.0" />
+      <edge source="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="274" weight="0.6146897673606873" />
+      <edge source="A versatile sensor capable of detecting various environmental factors such as motion, temperature, and humidity, offering flexibility for different applications." target="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." id="275" weight="0.6244662404060364" />
+      <edge source="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." target="smart home devices controller" id="276" weight="1.0" />
+      <edge source="A central hub or application that allows users to manage and control various smart home devices, such as lights, locks, and thermostats, from a single interface." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="277" weight="0.5098798871040344" />
+      <edge source="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." target="garage door opener" id="278" weight="1.0" />
+      <edge source="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="279" weight="0.5838949084281921" />
+      <edge source="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="280" weight="0.5500098466873169" />
+      <edge source="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="281" weight="0.5131103992462158" />
+      <edge source="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." target="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience." id="282" weight="0.5324154496192932" />
+      <edge source="A motorized device that opens and closes garage doors remotely, typically controlled via a smartphone app or a physical remote." target="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security." id="283" weight="0.5981489419937134" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." id="284" weight="0.6610978841781616" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="285" weight="0.5836294293403625" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="286" weight="0.5128062963485718" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." id="287" weight="0.599442183971405" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="288" weight="0.7263649702072144" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." id="289" weight="0.7802127599716187" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." id="290" weight="0.6019364595413208" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="switch" id="291" weight="1.0" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="292" weight="0.5698577761650085" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="293" weight="0.5556772947311401" />
+      <edge source="A device used to control the flow of electricity to light fixtures or appliances, available in various types including traditional, smart, and dimmer switches." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="294" weight="0.5878806710243225" />
+      <edge source="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." target="video surveillance" id="295" weight="1.0" />
+      <edge source="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." target="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." id="296" weight="0.5220422744750977" />
+      <edge source="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="297" weight="0.5625811815261841" />
+      <edge source="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="298" weight="0.577585756778717" />
+      <edge source="A system of cameras used to monitor and record activity in and around a property, providing security and peace of mind." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="299" weight="0.5516793727874756" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." id="300" weight="0.6664947271347046" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="301" weight="0.5535338521003723" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." id="302" weight="0.591981053352356" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="303" weight="0.712247371673584" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="dimmer" id="304" weight="1.0" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." id="305" weight="0.6895915269851685" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="306" weight="0.5669459104537964" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="307" weight="0.5839151740074158" />
+      <edge source="A device used to adjust the brightness of light fixtures, providing flexibility and ambiance control." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="308" weight="0.6100037693977356" />
+      <edge source="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="309" weight="0.5745222568511963" />
+      <edge source="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." target="home security and home automation system" id="310" weight="1.0" />
+      <edge source="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." target="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." id="311" weight="0.5748721957206726" />
+      <edge source="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="312" weight="0.5101991295814514" />
+      <edge source="An integrated system that combines security features such as alarms and surveillance with automation capabilities for controlling various aspects of the home environment." target="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience." id="313" weight="0.6077953577041626" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="314" weight="0.5095099806785583" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="motion sensor" id="315" weight="1.0" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." id="316" weight="0.5304585099220276" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="317" weight="0.5843431949615479" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="318" weight="0.5211922526359558" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="319" weight="0.9528742432594299" />
+      <edge source="A device that detects movement and triggers actions or alerts, often used for security or automation purposes." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="320" weight="0.7191566228866577" />
+      <edge source="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="321" weight="0.5525546669960022" />
+      <edge source="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." target="ring doorbell" id="322" weight="1.0" />
+      <edge source="A smart doorbell equipped with a camera and motion sensor, allowing users to see and communicate with visitors remotely via a smartphone app." target="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." id="323" weight="0.5331670641899109" />
+      <edge source="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." target="Technology used to track the location of assets such as vehicles, equipment, or packages in real-time using GPS technology." id="324" weight="0.525905966758728" />
+      <edge source="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="325" weight="0.5121554732322693" />
+      <edge source="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." target="motion sensor" id="326" weight="1.0" />
+      <edge source="A device that detects movement within its field of view and triggers actions or alerts, commonly used for security and automation purposes." target="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." id="327" weight="0.6803377866744995" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." id="328" weight="0.5151864290237427" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." id="329" weight="0.557890772819519" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="330" weight="0.5024166703224182" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="331" weight="0.5950333476066589" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="332" weight="0.6915349364280701" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="arrival sensor" id="333" weight="1.0" />
+      <edge source="A sensor that detects when a person or object enters a predefined area, often used to trigger actions like turning on lights or adjusting thermostats." target="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." id="334" weight="0.6412304639816284" />
+      <edge source="light" target="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." id="335" weight="1.0" />
+      <edge source="light" target="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." id="336" weight="1.0" />
+      <edge source="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." target="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." id="337" weight="0.5364260077476501" />
+      <edge source="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." target="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." id="338" weight="0.9540173411369324" />
+      <edge source="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="339" weight="0.7216258645057678" />
+      <edge source="A smart light bulb or lighting system that can be controlled remotely, dimmed, and scheduled for automated operation." target="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." id="340" weight="0.5871239900588989" />
+      <edge source="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." target="lock" id="341" weight="1.0" />
+      <edge source="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." target="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience." id="342" weight="0.8443289995193481" />
+      <edge source="A smart lock that can be remotely controlled and monitored, providing enhanced security and convenience for homeowners." target="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security." id="343" weight="0.6052539944648743" />
+      <edge source="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." target="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." id="344" weight="0.6943579912185669" />
+      <edge source="Smart light bulbs or lighting systems that can be controlled remotely, dimmed, and scheduled for automated operation." target="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." id="345" weight="0.5439017415046692" />
+      <edge source="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." target="lighting products controller" id="346" weight="1.0" />
+      <edge source="An application or system that allows users to control various lighting products, such as dimmers, light strips, switches, and controllers, for customized lighting experiences." target="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." id="347" weight="0.6655840277671814" />
+      <edge source="A flexible strip of LED lights used for decorative or ambient lighting, often controllable via smartphone apps or smart home systems." target="light strip" id="348" weight="1.0" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="heater" id="349" weight="1.0" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." id="350" weight="0.6073442697525024" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." id="351" weight="0.5480837225914001" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." id="352" weight="0.5343454480171204" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="353" weight="0.5651161074638367" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="354" weight="0.7070198655128479" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="355" weight="0.5509639382362366" />
+      <edge source="A device used to generate heat, commonly used for warming specific rooms or spaces within a home." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="356" weight="0.5679090023040771" />
+      <edge source="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." target="humidifier " id="357" weight="1.0" />
+      <edge source="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="358" weight="0.5234774351119995" />
+      <edge source="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." target="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." id="359" weight="0.5813497304916382" />
+      <edge source="A device that adds moisture to the air to prevent dryness, often used in bedrooms or living spaces to alleviate dry skin, throat irritation, and static electricity." target="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set." id="360" weight="0.5138278603553772" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." id="361" weight="0.5137004852294922" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." id="362" weight="0.5292719006538391" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="363" weight="0.527700662612915" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="364" weight="0.5344985723495483" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="water heater" id="365" weight="1.0" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="366" weight="0.516079306602478" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="367" weight="0.5339462757110596" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." id="368" weight="0.5046573281288147" />
+      <edge source="A device that heats water for domestic use, providing hot water for bathing, cooking, and cleaning." target="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." id="369" weight="0.5291646718978882" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="370" weight="0.6401339173316956" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more." id="371" weight="0.5331475138664246" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="oven" id="372" weight="1.0" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." id="373" weight="0.7975383400917053" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="374" weight="0.6758167743682861" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="375" weight="0.509512186050415" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="376" weight="0.9859535694122314" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="377" weight="0.6915547847747803" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and microwave ovens." target="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." id="378" weight="0.6891077160835266" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="379" weight="0.5664710998535156" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more." id="380" weight="0.5050035715103149" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="range" id="381" weight="1.0" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." id="382" weight="0.5918129682540894" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="383" weight="0.5115015506744385" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="384" weight="0.5791230797767639" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="385" weight="0.7966930866241455" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." id="386" weight="0.9999999403953552" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="387" weight="0.6160083413124084" />
+      <edge source="A combination appliance consisting of a stove and oven, typically used for cooking multiple dishes simultaneously." target="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." id="388" weight="0.572429895401001" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="389" weight="0.6807209849357605" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." target="refrigerator" id="390" weight="1.0" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." target="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." id="391" weight="0.682966411113739" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="392" weight="0.9598947763442993" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and ice makers." target="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." id="393" weight="0.537196934223175" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="394" weight="0.6522231698036194" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more." id="395" weight="0.5295859575271606" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="396" weight="0.5024935007095337" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="397" weight="0.5056202411651611" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="oven" id="398" weight="1.0" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." id="399" weight="0.7138803601264954" />
+      <edge source="A kitchen appliance used for baking, roasting, and heating food, available in various types including conventional, convection, and smart ovens." target="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." id="400" weight="0.6847695112228394" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="401" weight="0.6736288666725159" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="402" weight="0.5045304894447327" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="403" weight="0.5132144689559937" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." target="refrigerator" id="404" weight="1.0" />
+      <edge source="An appliance used for storing and preserving food at low temperatures, equipped with features like adjustable shelves, temperature control, and smart connectivity." target="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." id="405" weight="0.532007098197937" />
+      <edge source="slow cooker" target="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." id="406" weight="1.0" />
+      <edge source="A countertop appliance designed for slow cooking food at low temperatures over an extended period, ideal for preparing stews, soups, and tender meats." target="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more." id="407" weight="0.549220085144043" />
+      <edge source="A compact grill designed for use on kitchen countertops, allowing for convenient indoor grilling of meats, vegetables, and more." target="countertop grill" id="408" weight="1.0" />
+      <edge source="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="409" weight="0.601067841053009" />
+      <edge source="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." target="washer dryer" id="410" weight="1.0" />
+      <edge source="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." target="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs." id="411" weight="0.7753584980964661" />
+      <edge source="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." target="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set." id="412" weight="0.7906997203826904" />
+      <edge source="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." target="A combination appliance that functions as both a washing machine and a clothes dryer, saving space and streamlining laundry routines." id="413" weight="0.9999999403953552" />
+      <edge source="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set." target="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." id="414" weight="0.6448880434036255" />
+      <edge source="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set." target="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs." id="415" weight="0.897150456905365" />
+      <edge source="A machine used for drying clothes and textiles after washing, often available as standalone units or combined with a washer in a laundry set." target="dryer" id="416" weight="1.0" />
+      <edge source="cybersecurity for iot devices" target="Security measures and protocols implemented to protect Internet of Things devices from cyber threats and unauthorized access." id="417" weight="1.0" />
+      <edge source="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience." target="home locks" id="418" weight="1.0" />
+      <edge source="Smart locks equipped with features like keyless entry, remote locking/unlocking, and integration with smart home systems for enhanced security and convenience." target="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security." id="419" weight="0.5638307929039001" />
+      <edge source="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security." target="deadbolt" id="420" weight="1.0" />
+      <edge source="A type of lock mechanism commonly used on exterior doors, typically operated by a key or electronic keypad for added security." target="A handle used to open and close doors, often paired with a deadbolt or other locking mechanism for security." id="421" weight="0.622129499912262" />
+      <edge source="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." target="dishwasher" id="422" weight="1.0" />
+      <edge source="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." target="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs." id="423" weight="0.7052130699157715" />
+      <edge source="A machine designed for cleaning dishes and utensils automatically, reducing the need for manual scrubbing and washing." target="An autonomous vacuum cleaner that navigates and cleans floors automatically, saving time and effort for homeowners." id="424" weight="0.5136048793792725" />
+      <edge source="A machine used for washing clothes and other textiles, available in various capacities and features for different laundry needs." target="washer" id="425" weight="1.0" />
+      <edge source="A kitchen appliance used to brew coffee, available in various types including drip, espresso, and single-serve machines." target="coffee maker" id="426" weight="1.0" />
+      <edge source="An autonomous vacuum cleaner that navigates and cleans floors automatically, saving time and effort for homeowners." target="robot vaccum" id="427" weight="1.0" />
+      <edge source="An autonomous vacuum cleaner that navigates and cleans floors automatically, saving time and effort for homeowners." target="A robot vacuum equipped with cameras for live monitoring of cleaning progress and ensuring safety during operation." id="428" weight="0.670228123664856" />
+      <edge source="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." target="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." id="429" weight="0.5126107335090637" />
+      <edge source="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." target="water freeze detector" id="430" weight="1.0" />
+      <edge source="A sensor that detects freezing temperatures and alerts homeowners to the risk of frozen pipes, helping prevent water damage." target="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." id="431" weight="0.7458863854408264" />
+      <edge source="A sensor specifically designed to detect the presence of water, helping homeowners identify leaks and prevent water damage." target="water leak sensor" id="432" weight="1.0" />
+      <edge source="gps asset tracking" target="Technology used to track the location of assets such as vehicles, equipment, or packages in real-time using GPS technology." id="433" weight="1.0" />
+      <edge source="A robot vacuum equipped with cameras for live monitoring of cleaning progress and ensuring safety during operation." target="robot vaccum with safety monitor by video feed" id="434" weight="1.0" />
+      <edge source="A mattress equipped with sensors and technology to track sleep patterns, monitor vital signs, and provide features like temperature control for improved sleep quality." target="smart mattress" id="435" weight="1.0" />
+      <edge source="Similar to a smoke detector, a smoke alarm detects smoke and triggers an audible and/or visual alarm to warn occupants of a fire hazard." target="smoke alarm" id="436" weight="1.0" />
+      <edge source="A handle used to open and close doors, often paired with a deadbolt or other locking mechanism for security." target="doorknob" id="437" weight="1.0" />
+      <edge source="smart massage chair" target="A chair equipped with advanced technology and sensors to provide a variety of massage techniques, often including features like customizable massage programs, heat therapy, body scanning for personalized massages." id="438" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

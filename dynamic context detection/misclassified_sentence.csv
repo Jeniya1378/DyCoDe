@@ -1,0 +1,43 @@
+Sentence,context,score
+I'd like the place to be dust-free,temperature,0.376767009
+Set massage duration to 15 minutes,openapp,0.206962153
+Show the pictures from last summer vacation,camera,0.273083448
+Turn off the vacuum cleaner,coffeemachine,0.178053319
+Turn on the humidifier,temperature,0.254143596
+Could you handle the dust in the hallway,information,0.336996496
+oh my skin in as dry as leaves pass me the lotion,question,0.078064419
+I need the floors to be really clean,information,0.240333155
+Schedule cleaning for 9 AM,coffeemachine,0.297499985
+Activate security cameras and motion sensors when leaving the house,camera,0.374617845
+There's bread crumbs around the couch,toaster,0.103666075
+Turn on the vacuum cleaner,coffeemachine,0.194708928
+Activate the full body massage program medium intensity,temperature,0.190608516
+Turn on the vacuum cleaner,coffeemachine,0.194708928
+Could you vacuum later today,temperature,0.223993242
+i need to buy an umbrella,other,0.101943985
+Schedule a cleaning routine for tomorrow morning,coffeemachine,0.231751546
+Vacuum the kitchen,information,0.294371396
+Let's do a detailed clean today,information,0.328381091
+Cancel the scheduled cleaning,none,0.282670975
+Remember this humidity level for next time,temperature,0.197172061
+Can we make the room feel less dry,temperature,0.384267628
+Focus a bit more on my upper body please,shutters,0.260653675
+There's a lot of dust under the couch,shutters,0.246799469
+I need to get rid of this dust,shutters,0.057523146
+Adjust the chair to target my shoulders and neck,other,0.136665612
+I need to tidy up the living room,information,0.287911296
+Massage my neck and shoulders,dress,0.095837779
+I don't have much time just a quick massage,coffeemachine,0.066568196
+Adjust the chair position for better comfort,shutters,0.218123481
+Give me a quick massage,temperature,0.079763159
+Activate spot cleaning,shutters,0.131390631
+Lets have a revitalizing massage,temperature,0.343714476
+Turn off the vacuum cleaner,coffeemachine,0.178053319
+Can we do a quick clean now,temperature,0.219255745
+My skin feels really dry,weather,0.330447346
+There's some pet hair by the couch,temperature,0.15384084
+Increase the pressure in the massage roller,temperature,0.378860235
+hi,question,0.2553991973400116
+hi,question,0.2553991973400116
+hello,question,0.3168067932128906
+i need to wake up 8 in the morning,alarm,0.20910488069057465

@@ -1,0 +1,685 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-12">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="dash button" label="dash button">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="echo dot " label="echo dot ">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="amazon fire tv stick" label="amazon fire tv stick">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="air quality sensor" label="air quality sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="iot sevices controller application" label="iot sevices controller application">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart switch" label="smart switch">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="camera" label="camera">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="light" label="light">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="air purifier" label="air purifier">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="heater" label="heater">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="slow cooker" label="slow cooker">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="humidifier " label="humidifier ">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="cybersecurity for iot devices" label="cybersecurity for iot devices">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home security system" label="home security system">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="garage door opener" label="garage door opener">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="countertop grill" label="countertop grill">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="iot sevices controller application for apple" label="iot sevices controller application for apple">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="kitchen and laundry appliances controller" label="kitchen and laundry appliances controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="oven" label="oven">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="range" label="range">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="refrigerator" label="refrigerator">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="dishwasher" label="dishwasher">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="washer dryer" label="washer dryer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water heater" label="water heater">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="air conditioner" label="air conditioner">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart home devices controller" label="smart home devices controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="thermostat" label="thermostat">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="gps asset tracking" label="gps asset tracking">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="lock" label="lock">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="video surveillance" label="video surveillance">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="kitchen living and safety devices controller" label="kitchen living and safety devices controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="washer" label="washer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="dryer" label="dryer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="robot vaccum" label="robot vaccum">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="robot vaccum with safety monitor by video feed" label="robot vaccum with safety monitor by video feed">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="baby monitor" label="baby monitor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="coffee maker" label="coffee maker">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smoke and carbon monoxide detector " label="smoke and carbon monoxide detector ">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="energy usage tracker" label="energy usage tracker">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="lighting products controller" label="lighting products controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="dimmer" label="dimmer">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="light strip" label="light strip">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="switch" label="switch">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="controller" label="controller">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home security and home automation system" label="home security and home automation system">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="motion sensor" label="motion sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="video camera" label="video camera">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="ring doorbell" label="ring doorbell">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smoke detector" label="smoke detector">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smoke alarm" label="smoke alarm">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water leak  detector" label="water leak  detector">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water freeze detector" label="water freeze detector">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home monitoring kit" label="home monitoring kit">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="outlet" label="outlet">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="hub" label="hub">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="multipurpose sensor" label="multipurpose sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="arrival sensor" label="arrival sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="water leak sensor" label="water leak sensor">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="home locks" label="home locks">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="deadbolt" label="deadbolt">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="doorknob" label="doorknob">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart mattress" label="smart mattress">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart speaker system" label="smart speaker system">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+      <node id="smart home hub" label="smart home hub">
+        <attvalues>
+          <attvalue for="0" value="name" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="dash button" target="iot sevices controller application" id="0" weight="0.5854813456535339" />
+      <edge source="dash button" target="garage door opener" id="1" weight="0.5037522912025452" />
+      <edge source="dash button" target="smart home devices controller" id="2" weight="0.5282703042030334" />
+      <edge source="dash button" target="energy usage tracker" id="3" weight="0.5056513547897339" />
+      <edge source="dash button" target="switch" id="4" weight="0.5450644493103027" />
+      <edge source="dash button" target="outlet" id="5" weight="0.5145706534385681" />
+      <edge source="dash button" target="hub" id="6" weight="0.6004849672317505" />
+      <edge source="dash button" target="smart home hub" id="7" weight="0.6004849672317505" />
+      <edge source="echo dot " target="smart switch" id="8" weight="0.534060001373291" />
+      <edge source="echo dot " target="hub" id="9" weight="0.5428431034088135" />
+      <edge source="echo dot " target="smart speaker system" id="10" weight="0.8120630383491516" />
+      <edge source="echo dot " target="smart home hub" id="11" weight="0.5428431034088135" />
+      <edge source="amazon fire tv stick" target="camera" id="12" weight="0.5141558051109314" />
+      <edge source="air quality sensor" target="air purifier" id="13" weight="0.7150207161903381" />
+      <edge source="air quality sensor" target="humidifier " id="14" weight="0.5278242826461792" />
+      <edge source="air quality sensor" target="home security system" id="15" weight="0.5323712229728699" />
+      <edge source="air quality sensor" target="kitchen and laundry appliances controller" id="16" weight="0.5084187388420105" />
+      <edge source="air quality sensor" target="water heater" id="17" weight="0.5178356766700745" />
+      <edge source="air quality sensor" target="thermostat" id="18" weight="0.5266073942184448" />
+      <edge source="air quality sensor" target="kitchen living and safety devices controller" id="19" weight="0.5679261684417725" />
+      <edge source="air quality sensor" target="smoke and carbon monoxide detector " id="20" weight="0.669363260269165" />
+      <edge source="air quality sensor" target="energy usage tracker" id="21" weight="0.555740237236023" />
+      <edge source="air quality sensor" target="water leak  detector" id="22" weight="0.5555964708328247" />
+      <edge source="air quality sensor" target="water freeze detector" id="23" weight="0.541782021522522" />
+      <edge source="air quality sensor" target="multipurpose sensor" id="24" weight="0.5237202644348145" />
+      <edge source="air quality sensor" target="water leak sensor" id="25" weight="0.5973927974700928" />
+      <edge source="iot sevices controller application" target="smart switch" id="26" weight="0.5605228543281555" />
+      <edge source="iot sevices controller application" target="cybersecurity for iot devices" id="27" weight="0.5535190105438232" />
+      <edge source="iot sevices controller application" target="home security system" id="28" weight="0.509149968624115" />
+      <edge source="iot sevices controller application" target="garage door opener" id="29" weight="0.5065863728523254" />
+      <edge source="iot sevices controller application" target="iot sevices controller application for apple" id="30" weight="0.7664570212364197" />
+      <edge source="iot sevices controller application" target="smart home devices controller" id="31" weight="0.6712420582771301" />
+      <edge source="iot sevices controller application" target="thermostat" id="32" weight="0.5414261817932129" />
+      <edge source="iot sevices controller application" target="kitchen living and safety devices controller" id="33" weight="0.5463736057281494" />
+      <edge source="iot sevices controller application" target="controller" id="34" weight="0.6792882084846497" />
+      <edge source="iot sevices controller application" target="hub" id="35" weight="0.6586933732032776" />
+      <edge source="iot sevices controller application" target="smart speaker system" id="36" weight="0.5478466153144836" />
+      <edge source="iot sevices controller application" target="smart home hub" id="37" weight="0.6586933732032776" />
+      <edge source="smart switch" target="light" id="38" weight="0.5502060055732727" />
+      <edge source="smart switch" target="garage door opener" id="39" weight="0.6105672121047974" />
+      <edge source="smart switch" target="iot sevices controller application for apple" id="40" weight="0.5262289047241211" />
+      <edge source="smart switch" target="smart home devices controller" id="41" weight="0.5467658638954163" />
+      <edge source="smart switch" target="thermostat" id="42" weight="0.5351977944374084" />
+      <edge source="smart switch" target="lock" id="43" weight="0.5199553370475769" />
+      <edge source="smart switch" target="baby monitor" id="44" weight="0.5068451762199402" />
+      <edge source="smart switch" target="dimmer" id="45" weight="0.5174294710159302" />
+      <edge source="smart switch" target="light strip" id="46" weight="0.5589576959609985" />
+      <edge source="smart switch" target="switch" id="47" weight="0.5524388551712036" />
+      <edge source="smart switch" target="controller" id="48" weight="0.5266501307487488" />
+      <edge source="smart switch" target="motion sensor" id="49" weight="0.5406255125999451" />
+      <edge source="smart switch" target="ring doorbell" id="50" weight="0.5366311073303223" />
+      <edge source="smart switch" target="hub" id="51" weight="0.616844117641449" />
+      <edge source="smart switch" target="smart speaker system" id="52" weight="0.5818036794662476" />
+      <edge source="smart switch" target="smart home hub" id="53" weight="0.616844117641449" />
+      <edge source="camera" target="home security system" id="54" weight="0.5977810025215149" />
+      <edge source="camera" target="video surveillance" id="55" weight="0.5867182016372681" />
+      <edge source="camera" target="baby monitor" id="56" weight="0.5086084604263306" />
+      <edge source="camera" target="home security and home automation system" id="57" weight="0.5396305918693542" />
+      <edge source="camera" target="motion sensor" id="58" weight="0.574505090713501" />
+      <edge source="camera" target="video camera" id="59" weight="0.8106522560119629" />
+      <edge source="camera" target="ring doorbell" id="60" weight="0.5491970181465149" />
+      <edge source="camera" target="hub" id="61" weight="0.5532819032669067" />
+      <edge source="camera" target="smart home hub" id="62" weight="0.5532819032669067" />
+      <edge source="light" target="heater" id="63" weight="0.5395470261573792" />
+      <edge source="light" target="garage door opener" id="64" weight="0.5077981352806091" />
+      <edge source="light" target="smart home devices controller" id="65" weight="0.5920158624649048" />
+      <edge source="light" target="thermostat" id="66" weight="0.5483849048614502" />
+      <edge source="light" target="lock" id="67" weight="0.5101340413093567" />
+      <edge source="light" target="light" id="68" weight="0.9447852373123169" />
+      <edge source="light" target="kitchen living and safety devices controller" id="69" weight="0.5318160653114319" />
+      <edge source="light" target="energy usage tracker" id="70" weight="0.5150238871574402" />
+      <edge source="light" target="lighting products controller" id="71" weight="0.6865930557250977" />
+      <edge source="light" target="dimmer" id="72" weight="0.6783325672149658" />
+      <edge source="light" target="light strip" id="73" weight="0.704645574092865" />
+      <edge source="light" target="switch" id="74" weight="0.693651020526886" />
+      <edge source="light" target="motion sensor" id="75" weight="0.5351592302322388" />
+      <edge source="light" target="outlet" id="76" weight="0.5611415505409241" />
+      <edge source="light" target="hub" id="77" weight="0.5174112319946289" />
+      <edge source="light" target="arrival sensor" id="78" weight="0.5222762227058411" />
+      <edge source="light" target="smart home hub" id="79" weight="0.5174112319946289" />
+      <edge source="air purifier" target="humidifier " id="80" weight="0.6155612468719482" />
+      <edge source="air purifier" target="water heater" id="81" weight="0.540569007396698" />
+      <edge source="air purifier" target="smoke and carbon monoxide detector " id="82" weight="0.622617244720459" />
+      <edge source="air purifier" target="smoke detector" id="83" weight="0.5165301561355591" />
+      <edge source="heater" target="humidifier " id="84" weight="0.6554884910583496" />
+      <edge source="heater" target="oven" id="85" weight="0.5565084218978882" />
+      <edge source="heater" target="refrigerator" id="86" weight="0.6232919692993164" />
+      <edge source="heater" target="water heater" id="87" weight="0.6421971321105957" />
+      <edge source="heater" target="air conditioner" id="88" weight="0.6947835087776184" />
+      <edge source="heater" target="smart home devices controller" id="89" weight="0.5854830741882324" />
+      <edge source="heater" target="thermostat" id="90" weight="0.6322243809700012" />
+      <edge source="heater" target="energy usage tracker" id="91" weight="0.5570623874664307" />
+      <edge source="heater" target="switch" id="92" weight="0.5275018215179443" />
+      <edge source="heater" target="outlet" id="93" weight="0.5909625887870789" />
+      <edge source="slow cooker" target="countertop grill" id="94" weight="0.5481553077697754" />
+      <edge source="slow cooker" target="oven" id="95" weight="0.639473557472229" />
+      <edge source="slow cooker" target="range" id="96" weight="0.5542644262313843" />
+      <edge source="slow cooker" target="refrigerator" id="97" weight="0.6053541302680969" />
+      <edge source="slow cooker" target="dishwasher" id="98" weight="0.5106528401374817" />
+      <edge source="humidifier " target="washer dryer" id="99" weight="0.5467254519462585" />
+      <edge source="humidifier " target="water heater" id="100" weight="0.6094747185707092" />
+      <edge source="humidifier " target="air conditioner" id="101" weight="0.6007828116416931" />
+      <edge source="humidifier " target="smart home devices controller" id="102" weight="0.5084452629089355" />
+      <edge source="humidifier " target="thermostat" id="103" weight="0.5195379257202148" />
+      <edge source="humidifier " target="robot vaccum" id="104" weight="0.5485889315605164" />
+      <edge source="humidifier " target="outlet" id="105" weight="0.5231840014457703" />
+      <edge source="cybersecurity for iot devices" target="home security system" id="106" weight="0.6099519729614258" />
+      <edge source="cybersecurity for iot devices" target="home security and home automation system" id="107" weight="0.5100910663604736" />
+      <edge source="home security system" target="smart home devices controller" id="108" weight="0.5632059574127197" />
+      <edge source="home security system" target="thermostat" id="109" weight="0.5191686749458313" />
+      <edge source="home security system" target="lock" id="110" weight="0.6347560882568359" />
+      <edge source="home security system" target="video surveillance" id="111" weight="0.62729412317276" />
+      <edge source="home security system" target="kitchen living and safety devices controller" id="112" weight="0.6308935880661011" />
+      <edge source="home security system" target="baby monitor" id="113" weight="0.5316312313079834" />
+      <edge source="home security system" target="energy usage tracker" id="114" weight="0.5380397439002991" />
+      <edge source="home security system" target="controller" id="115" weight="0.6131227016448975" />
+      <edge source="home security system" target="home security and home automation system" id="116" weight="0.6940197348594666" />
+      <edge source="home security system" target="motion sensor" id="117" weight="0.7153221368789673" />
+      <edge source="home security system" target="video camera" id="118" weight="0.5466530323028564" />
+      <edge source="home security system" target="ring doorbell" id="119" weight="0.5895799398422241" />
+      <edge source="home security system" target="smoke alarm" id="120" weight="0.515579342842102" />
+      <edge source="home security system" target="water leak  detector" id="121" weight="0.6274974942207336" />
+      <edge source="home security system" target="home monitoring kit" id="122" weight="0.7575686573982239" />
+      <edge source="home security system" target="outlet" id="123" weight="0.5186881422996521" />
+      <edge source="home security system" target="hub" id="124" weight="0.6469822525978088" />
+      <edge source="home security system" target="arrival sensor" id="125" weight="0.5583640336990356" />
+      <edge source="home security system" target="water leak sensor" id="126" weight="0.574055016040802" />
+      <edge source="home security system" target="smart home hub" id="127" weight="0.6469822525978088" />
+      <edge source="garage door opener" target="smart home devices controller" id="128" weight="0.5367158651351929" />
+      <edge source="garage door opener" target="thermostat" id="129" weight="0.6484880447387695" />
+      <edge source="garage door opener" target="lock" id="130" weight="0.6100896000862122" />
+      <edge source="garage door opener" target="controller" id="131" weight="0.5446860194206238" />
+      <edge source="garage door opener" target="motion sensor" id="132" weight="0.5248513221740723" />
+      <edge source="garage door opener" target="ring doorbell" id="133" weight="0.5980069041252136" />
+      <edge source="garage door opener" target="outlet" id="134" weight="0.5732923150062561" />
+      <edge source="garage door opener" target="hub" id="135" weight="0.5690814256668091" />
+      <edge source="garage door opener" target="deadbolt" id="136" weight="0.551447331905365" />
+      <edge source="garage door opener" target="doorknob" id="137" weight="0.5039040446281433" />
+      <edge source="garage door opener" target="smart home hub" id="138" weight="0.5690814256668091" />
+      <edge source="countertop grill" target="oven" id="139" weight="0.6111415028572083" />
+      <edge source="countertop grill" target="range" id="140" weight="0.5625825524330139" />
+      <edge source="countertop grill" target="refrigerator" id="141" weight="0.5238471627235413" />
+      <edge source="iot sevices controller application for apple" target="smart home devices controller" id="142" weight="0.5469807982444763" />
+      <edge source="iot sevices controller application for apple" target="thermostat" id="143" weight="0.5872642397880554" />
+      <edge source="iot sevices controller application for apple" target="controller" id="144" weight="0.5277845859527588" />
+      <edge source="iot sevices controller application for apple" target="motion sensor" id="145" weight="0.5131294131278992" />
+      <edge source="iot sevices controller application for apple" target="ring doorbell" id="146" weight="0.5165643095970154" />
+      <edge source="iot sevices controller application for apple" target="hub" id="147" weight="0.590086817741394" />
+      <edge source="iot sevices controller application for apple" target="smart home hub" id="148" weight="0.590086817741394" />
+      <edge source="kitchen and laundry appliances controller" target="dishwasher" id="149" weight="0.5815827250480652" />
+      <edge source="kitchen and laundry appliances controller" target="washer dryer" id="150" weight="0.6556005477905273" />
+      <edge source="kitchen and laundry appliances controller" target="smart home devices controller" id="151" weight="0.579403817653656" />
+      <edge source="kitchen and laundry appliances controller" target="kitchen living and safety devices controller" id="152" weight="0.8136168718338013" />
+      <edge source="kitchen and laundry appliances controller" target="refrigerator" id="153" weight="0.5090713500976562" />
+      <edge source="kitchen and laundry appliances controller" target="washer" id="154" weight="0.5252252817153931" />
+      <edge source="kitchen and laundry appliances controller" target="robot vaccum" id="155" weight="0.559512734413147" />
+      <edge source="kitchen and laundry appliances controller" target="energy usage tracker" id="156" weight="0.5709572434425354" />
+      <edge source="kitchen and laundry appliances controller" target="lighting products controller" id="157" weight="0.5287882685661316" />
+      <edge source="kitchen and laundry appliances controller" target="switch" id="158" weight="0.5028451085090637" />
+      <edge source="kitchen and laundry appliances controller" target="home security and home automation system" id="159" weight="0.5656683444976807" />
+      <edge source="oven" target="range" id="160" weight="0.7647308111190796" />
+      <edge source="oven" target="refrigerator" id="161" weight="0.6586434841156006" />
+      <edge source="oven" target="oven" id="162" weight="0.9696286916732788" />
+      <edge source="oven" target="coffee maker" id="163" weight="0.5907608866691589" />
+      <edge source="range" target="refrigerator" id="164" weight="0.5295388698577881" />
+      <edge source="range" target="range" id="165" weight="1.0" />
+      <edge source="range" target="coffee maker" id="166" weight="0.583046555519104" />
+      <edge source="refrigerator" target="water heater" id="167" weight="0.5505115985870361" />
+      <edge source="refrigerator" target="air conditioner" id="168" weight="0.5378322005271912" />
+      <edge source="refrigerator" target="thermostat" id="169" weight="0.6126316785812378" />
+      <edge source="refrigerator" target="kitchen living and safety devices controller" id="170" weight="0.5810362696647644" />
+      <edge source="refrigerator" target="refrigerator" id="171" weight="0.9321576356887817" />
+      <edge source="refrigerator" target="coffee maker" id="172" weight="0.5037049055099487" />
+      <edge source="refrigerator" target="water freeze detector" id="173" weight="0.5152488350868225" />
+      <edge source="refrigerator" target="outlet" id="174" weight="0.5654910802841187" />
+      <edge source="refrigerator" target="smart home devices controller" id="175" weight="0.5706697106361389" />
+      <edge source="refrigerator" target="dimmer" id="176" weight="0.5461344718933105" />
+      <edge source="refrigerator" target="switch" id="177" weight="0.5085763931274414" />
+      <edge source="refrigerator" target="multipurpose sensor" id="178" weight="0.5171970725059509" />
+      <edge source="dishwasher" target="washer dryer" id="179" weight="0.6390685439109802" />
+      <edge source="dishwasher" target="water heater" id="180" weight="0.5470834374427795" />
+      <edge source="dishwasher" target="washer" id="181" weight="0.612619936466217" />
+      <edge source="dishwasher" target="dryer" id="182" weight="0.6251692771911621" />
+      <edge source="dishwasher" target="robot vaccum" id="183" weight="0.5348628163337708" />
+      <edge source="washer dryer" target="washer" id="184" weight="0.7723891735076904" />
+      <edge source="washer dryer" target="dryer" id="185" weight="0.7859501838684082" />
+      <edge source="washer dryer" target="robot vaccum" id="186" weight="0.6229805946350098" />
+      <edge source="washer dryer" target="washer dryer" id="187" weight="0.9999999403953552" />
+      <edge source="water heater" target="air conditioner" id="188" weight="0.591982364654541" />
+      <edge source="water heater" target="switch" id="189" weight="0.5066001415252686" />
+      <edge source="water heater" target="water leak  detector" id="190" weight="0.5405541062355042" />
+      <edge source="water heater" target="water freeze detector" id="191" weight="0.5627566576004028" />
+      <edge source="water heater" target="water leak sensor" id="192" weight="0.570799708366394" />
+      <edge source="air conditioner" target="thermostat" id="193" weight="0.5379528403282166" />
+      <edge source="air conditioner" target="air conditioner" id="194" weight="0.9595537185668945" />
+      <edge source="smart home devices controller" target="thermostat" id="195" weight="0.6077753901481628" />
+      <edge source="smart home devices controller" target="lock" id="196" weight="0.5921111106872559" />
+      <edge source="smart home devices controller" target="kitchen living and safety devices controller" id="197" weight="0.6204077005386353" />
+      <edge source="smart home devices controller" target="energy usage tracker" id="198" weight="0.5893884301185608" />
+      <edge source="smart home devices controller" target="lighting products controller" id="199" weight="0.6207334399223328" />
+      <edge source="smart home devices controller" target="dimmer" id="200" weight="0.5663459300994873" />
+      <edge source="smart home devices controller" target="light strip" id="201" weight="0.6313619613647461" />
+      <edge source="smart home devices controller" target="switch" id="202" weight="0.6443257331848145" />
+      <edge source="smart home devices controller" target="controller" id="203" weight="0.8524653911590576" />
+      <edge source="smart home devices controller" target="home security and home automation system" id="204" weight="0.5718911290168762" />
+      <edge source="smart home devices controller" target="home monitoring kit" id="205" weight="0.5836905241012573" />
+      <edge source="smart home devices controller" target="outlet" id="206" weight="0.5479978322982788" />
+      <edge source="smart home devices controller" target="hub" id="207" weight="0.7311484217643738" />
+      <edge source="smart home devices controller" target="arrival sensor" id="208" weight="0.506441056728363" />
+      <edge source="smart home devices controller" target="home locks" id="209" weight="0.5225063562393188" />
+      <edge source="smart home devices controller" target="smart speaker system" id="210" weight="0.5354465246200562" />
+      <edge source="smart home devices controller" target="smart home hub" id="211" weight="0.7311484217643738" />
+      <edge source="thermostat" target="lock" id="212" weight="0.5236738324165344" />
+      <edge source="thermostat" target="kitchen living and safety devices controller" id="213" weight="0.5469392538070679" />
+      <edge source="thermostat" target="baby monitor" id="214" weight="0.5184445381164551" />
+      <edge source="thermostat" target="thermostat" id="215" weight="1.0" />
+      <edge source="thermostat" target="energy usage tracker" id="216" weight="0.5025534629821777" />
+      <edge source="thermostat" target="dimmer" id="217" weight="0.5088295340538025" />
+      <edge source="thermostat" target="light strip" id="218" weight="0.5006488561630249" />
+      <edge source="thermostat" target="motion sensor" id="219" weight="0.551068127155304" />
+      <edge source="thermostat" target="ring doorbell" id="220" weight="0.5620331764221191" />
+      <edge source="thermostat" target="water freeze detector" id="221" weight="0.5058652758598328" />
+      <edge source="thermostat" target="outlet" id="222" weight="0.5987500548362732" />
+      <edge source="thermostat" target="hub" id="223" weight="0.5537625551223755" />
+      <edge source="thermostat" target="multipurpose sensor" id="224" weight="0.5400508046150208" />
+      <edge source="thermostat" target="arrival sensor" id="225" weight="0.5766641497612" />
+      <edge source="thermostat" target="smart home hub" id="226" weight="0.5537625551223755" />
+      <edge source="lock" target="kitchen living and safety devices controller" id="227" weight="0.5603901147842407" />
+      <edge source="lock" target="controller" id="228" weight="0.552592396736145" />
+      <edge source="lock" target="home security and home automation system" id="229" weight="0.6550490260124207" />
+      <edge source="lock" target="motion sensor" id="230" weight="0.5005757808685303" />
+      <edge source="lock" target="ring doorbell" id="231" weight="0.6238793134689331" />
+      <edge source="lock" target="water leak  detector" id="232" weight="0.5226500034332275" />
+      <edge source="lock" target="home monitoring kit" id="233" weight="0.5530579686164856" />
+      <edge source="lock" target="hub" id="234" weight="0.5361714959144592" />
+      <edge source="lock" target="water leak sensor" id="235" weight="0.5081940293312073" />
+      <edge source="lock" target="home locks" id="236" weight="0.775499165058136" />
+      <edge source="lock" target="deadbolt" id="237" weight="0.6787192225456238" />
+      <edge source="lock" target="doorknob" id="238" weight="0.5667355060577393" />
+      <edge source="lock" target="smart home hub" id="239" weight="0.5361714959144592" />
+      <edge source="video surveillance" target="robot vaccum with safety monitor by video feed" id="240" weight="0.5196186900138855" />
+      <edge source="video surveillance" target="home security and home automation system" id="241" weight="0.5688593983650208" />
+      <edge source="video surveillance" target="motion sensor" id="242" weight="0.5629388689994812" />
+      <edge source="video surveillance" target="video camera" id="243" weight="0.6516510248184204" />
+      <edge source="video surveillance" target="ring doorbell" id="244" weight="0.5539658665657043" />
+      <edge source="video surveillance" target="home monitoring kit" id="245" weight="0.5260779857635498" />
+      <edge source="kitchen living and safety devices controller" target="baby monitor" id="246" weight="0.5442507266998291" />
+      <edge source="kitchen living and safety devices controller" target="energy usage tracker" id="247" weight="0.6066446304321289" />
+      <edge source="kitchen living and safety devices controller" target="lighting products controller" id="248" weight="0.6198760867118835" />
+      <edge source="kitchen living and safety devices controller" target="dimmer" id="249" weight="0.5093193650245667" />
+      <edge source="kitchen living and safety devices controller" target="switch" id="250" weight="0.5385004281997681" />
+      <edge source="kitchen living and safety devices controller" target="controller" id="251" weight="0.5344740748405457" />
+      <edge source="kitchen living and safety devices controller" target="home security and home automation system" id="252" weight="0.6509212851524353" />
+      <edge source="kitchen living and safety devices controller" target="motion sensor" id="253" weight="0.5887380242347717" />
+      <edge source="kitchen living and safety devices controller" target="home monitoring kit" id="254" weight="0.558836042881012" />
+      <edge source="kitchen living and safety devices controller" target="outlet" id="255" weight="0.5230134129524231" />
+      <edge source="kitchen living and safety devices controller" target="hub" id="256" weight="0.5163063406944275" />
+      <edge source="kitchen living and safety devices controller" target="arrival sensor" id="257" weight="0.5290110111236572" />
+      <edge source="kitchen living and safety devices controller" target="water leak sensor" id="258" weight="0.5262821912765503" />
+      <edge source="kitchen living and safety devices controller" target="smart home hub" id="259" weight="0.5163063406944275" />
+      <edge source="washer" target="dryer" id="260" weight="0.8897519707679749" />
+      <edge source="robot vaccum" target="robot vaccum with safety monitor by video feed" id="261" weight="0.7522917985916138" />
+      <edge source="baby monitor" target="motion sensor" id="262" weight="0.6408624649047852" />
+      <edge source="baby monitor" target="video camera" id="263" weight="0.5517571568489075" />
+      <edge source="baby monitor" target="ring doorbell" id="264" weight="0.5649963021278381" />
+      <edge source="baby monitor" target="hub" id="265" weight="0.5282027125358582" />
+      <edge source="baby monitor" target="smart home hub" id="266" weight="0.5282027125358582" />
+      <edge source="smoke and carbon monoxide detector " target="motion sensor" id="267" weight="0.5436805486679077" />
+      <edge source="smoke and carbon monoxide detector " target="smoke detector" id="268" weight="0.8119593858718872" />
+      <edge source="smoke and carbon monoxide detector " target="smoke alarm" id="269" weight="0.7814343571662903" />
+      <edge source="smoke and carbon monoxide detector " target="water leak  detector" id="270" weight="0.5001139640808105" />
+      <edge source="smoke and carbon monoxide detector " target="water freeze detector" id="271" weight="0.5420766472816467" />
+      <edge source="smoke and carbon monoxide detector " target="arrival sensor" id="272" weight="0.511945366859436" />
+      <edge source="energy usage tracker" target="lighting products controller" id="273" weight="0.5076605081558228" />
+      <edge source="energy usage tracker" target="switch" id="274" weight="0.5176548957824707" />
+      <edge source="energy usage tracker" target="controller" id="275" weight="0.5239771604537964" />
+      <edge source="energy usage tracker" target="outlet" id="276" weight="0.5687792897224426" />
+      <edge source="energy usage tracker" target="hub" id="277" weight="0.5977897644042969" />
+      <edge source="energy usage tracker" target="smart home hub" id="278" weight="0.5977897644042969" />
+      <edge source="lighting products controller" target="dimmer" id="279" weight="0.7017396688461304" />
+      <edge source="lighting products controller" target="light strip" id="280" weight="0.7149538993835449" />
+      <edge source="lighting products controller" target="switch" id="281" weight="0.7347303628921509" />
+      <edge source="dimmer" target="light strip" id="282" weight="0.6887592673301697" />
+      <edge source="dimmer" target="switch" id="283" weight="0.7344916462898254" />
+      <edge source="dimmer" target="outlet" id="284" weight="0.5349931716918945" />
+      <edge source="dimmer" target="hub" id="285" weight="0.5031483173370361" />
+      <edge source="dimmer" target="motion sensor" id="286" weight="0.5017001032829285" />
+      <edge source="dimmer" target="multipurpose sensor" id="287" weight="0.5019024610519409" />
+      <edge source="dimmer" target="arrival sensor" id="288" weight="0.5468597412109375" />
+      <edge source="dimmer" target="smart home hub" id="289" weight="0.5031483173370361" />
+      <edge source="light strip" target="switch" id="290" weight="0.6627782583236694" />
+      <edge source="light strip" target="controller" id="291" weight="0.5392040014266968" />
+      <edge source="light strip" target="hub" id="292" weight="0.5998727083206177" />
+      <edge source="light strip" target="smart home hub" id="293" weight="0.5998727083206177" />
+      <edge source="switch" target="controller" id="294" weight="0.5184239149093628" />
+      <edge source="switch" target="outlet" id="295" weight="0.6857214570045471" />
+      <edge source="switch" target="hub" id="296" weight="0.6006540060043335" />
+      <edge source="switch" target="arrival sensor" id="297" weight="0.5589891672134399" />
+      <edge source="switch" target="smart home hub" id="298" weight="0.6006540060043335" />
+      <edge source="controller" target="home security and home automation system" id="299" weight="0.5805749893188477" />
+      <edge source="controller" target="home monitoring kit" id="300" weight="0.6241942644119263" />
+      <edge source="controller" target="outlet" id="301" weight="0.5024380087852478" />
+      <edge source="controller" target="hub" id="302" weight="0.7949987649917603" />
+      <edge source="controller" target="smart speaker system" id="303" weight="0.5405154228210449" />
+      <edge source="controller" target="smart home hub" id="304" weight="0.7949987649917603" />
+      <edge source="home security and home automation system" target="motion sensor" id="305" weight="0.5711872577667236" />
+      <edge source="home security and home automation system" target="home monitoring kit" id="306" weight="0.650468111038208" />
+      <edge source="home security and home automation system" target="hub" id="307" weight="0.5253273248672485" />
+      <edge source="home security and home automation system" target="home locks" id="308" weight="0.5597878694534302" />
+      <edge source="home security and home automation system" target="deadbolt" id="309" weight="0.536605954170227" />
+      <edge source="home security and home automation system" target="smart home hub" id="310" weight="0.5253273248672485" />
+      <edge source="motion sensor" target="video camera" id="311" weight="0.570388913154602" />
+      <edge source="motion sensor" target="ring doorbell" id="312" weight="0.5624112486839294" />
+      <edge source="motion sensor" target="smoke detector" id="313" weight="0.5406888723373413" />
+      <edge source="motion sensor" target="smoke alarm" id="314" weight="0.5208349823951721" />
+      <edge source="motion sensor" target="water leak  detector" id="315" weight="0.5076913237571716" />
+      <edge source="motion sensor" target="hub" id="316" weight="0.5334634184837341" />
+      <edge source="motion sensor" target="motion sensor" id="317" weight="0.950334370136261" />
+      <edge source="motion sensor" target="arrival sensor" id="318" weight="0.6247007846832275" />
+      <edge source="motion sensor" target="smart home hub" id="319" weight="0.5334634184837341" />
+      <edge source="video camera" target="ring doorbell" id="320" weight="0.5562660694122314" />
+      <edge source="ring doorbell" target="hub" id="321" weight="0.5772188901901245" />
+      <edge source="ring doorbell" target="deadbolt" id="322" weight="0.5024406313896179" />
+      <edge source="ring doorbell" target="smart home hub" id="323" weight="0.5772188901901245" />
+      <edge source="smoke detector" target="smoke alarm" id="324" weight="0.8282466530799866" />
+      <edge source="smoke detector" target="arrival sensor" id="325" weight="0.5252308249473572" />
+      <edge source="smoke alarm" target="water leak  detector" id="326" weight="0.5173981189727783" />
+      <edge source="smoke alarm" target="arrival sensor" id="327" weight="0.5147303342819214" />
+      <edge source="water leak  detector" target="water freeze detector" id="328" weight="0.7737853527069092" />
+      <edge source="water leak  detector" target="home monitoring kit" id="329" weight="0.5900505781173706" />
+      <edge source="water leak  detector" target="multipurpose sensor" id="330" weight="0.6420760750770569" />
+      <edge source="water leak  detector" target="arrival sensor" id="331" weight="0.65797358751297" />
+      <edge source="water leak  detector" target="water leak sensor" id="332" weight="0.9396584630012512" />
+      <edge source="water freeze detector" target="multipurpose sensor" id="333" weight="0.5806124806404114" />
+      <edge source="water freeze detector" target="arrival sensor" id="334" weight="0.6117383241653442" />
+      <edge source="water freeze detector" target="water leak sensor" id="335" weight="0.7870586514472961" />
+      <edge source="home monitoring kit" target="hub" id="336" weight="0.5090014338493347" />
+      <edge source="home monitoring kit" target="water leak sensor" id="337" weight="0.5794752836227417" />
+      <edge source="home monitoring kit" target="smart home hub" id="338" weight="0.5090014338493347" />
+      <edge source="outlet" target="hub" id="339" weight="0.5897971391677856" />
+      <edge source="outlet" target="smart home hub" id="340" weight="0.5897971391677856" />
+      <edge source="hub" target="smart speaker system" id="341" weight="0.5455634593963623" />
+      <edge source="hub" target="smart home hub" id="342" weight="1.0" />
+      <edge source="multipurpose sensor" target="arrival sensor" id="343" weight="0.618032693862915" />
+      <edge source="multipurpose sensor" target="water leak sensor" id="344" weight="0.6259802579879761" />
+      <edge source="arrival sensor" target="water leak sensor" id="345" weight="0.6039361357688904" />
+      <edge source="home locks" target="deadbolt" id="346" weight="0.7134403586387634" />
+      <edge source="home locks" target="doorknob" id="347" weight="0.5809208154678345" />
+      <edge source="deadbolt" target="doorknob" id="348" weight="0.7426525354385376" />
+      <edge source="smart speaker system" target="smart home hub" id="349" weight="0.5455634593963623" />
+    </edges>
+  </graph>
+</gexf>

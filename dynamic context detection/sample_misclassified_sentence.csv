@@ -1,0 +1,39 @@
+Sentence,context,score
+I'd like the place to be dust-free,temperature,0.37676700949668884
+Set massage duration to 15 minutes,openapp,0.20696215331554413
+Show the pictures from last summer vacation,camera,0.2730834484100342
+Turn off the vacuum cleaner,coffeemachine,0.17805331945419312
+Turn on the humidifier,temperature,0.2541435956954956
+Could you handle the dust in the hallway,information,0.33699649572372437
+oh my skin in as dry as leaves pass me the lotion,question,0.07806441932916641
+I need the floors to be really clean,information,0.24033315479755402
+Schedule cleaning for 9 AM,coffeemachine,0.29749998450279236
+Activate security cameras and motion sensors when leaving the house,camera,0.3746178448200226
+There's bread crumbs around the couch,toaster,0.10366607457399368
+Turn on the vacuum cleaner,coffeemachine,0.1947089284658432
+Activate the full body massage program medium intensity,temperature,0.19060851633548737
+Turn on the vacuum cleaner,coffeemachine,0.1947089284658432
+Could you vacuum later today,temperature,0.2239932417869568
+i need to buy an umbrella,other,0.1019439846277237
+Schedule a cleaning routine for tomorrow morning,coffeemachine,0.23175154626369476
+Vacuum the kitchen,information,0.2943713963031769
+Let's do a detailed clean today,information,0.32838109135627747
+Cancel the scheduled cleaning,none,0.2826709747314453
+Remember this humidity level for next time,temperature,0.19717206060886383
+Can we make the room feel less dry,temperature,0.3842676281929016
+Focus a bit more on my upper body please,shutters,0.26065367460250854
+There's a lot of dust under the couch,shutters,0.24679946899414062
+I need to get rid of this dust,shutters,0.05752314627170563
+Adjust the chair to target my shoulders and neck,other,0.13666561245918274
+I need to tidy up the living room,information,0.2879112958908081
+Massage my neck and shoulders,dress,0.0958377793431282
+I don't have much time just a quick massage,coffeemachine,0.06656819581985474
+Adjust the chair position for better comfort,shutters,0.21812348067760468
+Give me a quick massage,temperature,0.07976315915584564
+Activate spot cleaning,shutters,0.13139063119888306
+Lets have a revitalizing massage,temperature,0.34371447563171387
+Turn off the vacuum cleaner,coffeemachine,0.17805331945419312
+Can we do a quick clean now,temperature,0.2192557454109192
+My skin feels really dry,weather,0.33044734597206116
+There's some pet hair by the couch,temperature,0.1538408398628235
+Increase the pressure in the massage roller,temperature,0.3788602352142334
