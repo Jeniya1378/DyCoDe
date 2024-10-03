@@ -22,6 +22,7 @@ Context Recognition:
 The SAF model along with other neural network models are provided in the directory "recognition".
 Please run the command: python SAF.py
 It will train the SAF model with the combined dataset. 
+Details about this research work and related paper can be found in https://github.com/Jeniya1378/Context-Recognition-from-Voice-Commands-in-Smart-Home
 
 In order to run the other models for comparison please run the command: python main.py
 This will provide options to run -
