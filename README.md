@@ -1,4 +1,8 @@
-DyCoDe is a dynamic context detection framework designed for IoT smart homes. It utilizes techniques such as clustering, topic identification, and zero-shot learning to enhance voice assistant capabilities, enabling seamless device control without the need for predefined commands. This project adapts to new appliances and evolving environments, automating tasks with greater accuracy and autonomy.
+DyCoDe is a dynamic context detection framework designed for IoT smart homes. It utilizes techniques such as clustering, topic identification, and zero-shot learning to enhance voice assistant capabilities, enabling seamless device control without the need for predefined commands. This project adapts to new appliances and evolving environments, automating tasks with greater accuracy and autonomy. The framework consists of two main pipelines: context recognition and dynamic context detection.
+
+Context Recognition: Utilizes a pre-trained SBERT model with an attention mechanism to identify standard contexts (e.g., lights, temperature) from voice commands. This research work is also available in https://github.com/Jeniya1378/Context-Recognition-from-Voice-Commands-in-Smart-Home
+
+Dynamic Context Detection: When the context recognition model misclassifies data, DyCoDe temporarily stores this data. It then applies clustering algorithms like DBSCAN and OPTICS to group similar voice samples into clusters. A validation process ensures cluster quality, followed by topic identification within each cluster. These topics are mapped to smart home appliances, enabling context-specific actions.
 
 **Getting Started**
 
