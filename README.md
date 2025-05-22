@@ -27,3 +27,5 @@ Licensed under the MIT License. See the LICENSE file for details.
 If you use this code or dataset in your research, please cite:
 
 J. Sultana and R. Iqbal, "DyCoDe: Dynamic Context Detection from Voice Commands and Conversations in Smart Homes," 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2025.
+
+https://ieeexplore.ieee.org/abstract/document/10976079
